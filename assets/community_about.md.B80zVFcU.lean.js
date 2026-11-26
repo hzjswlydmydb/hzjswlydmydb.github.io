@@ -1,0 +1,1 @@
+import{o as e,c as t,a2 as r}from"./chunks/framework.CdvW4CUT.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"community/about.md","filePath":"community/about.md"}'),o={name:"community/about.md"},u=Object.assign(o,{setup(l){return(i,a)=>(e(),t("div",null,[...a[0]||(a[0]=[r("",11)])]))}});export{m as __pageData,u as default};

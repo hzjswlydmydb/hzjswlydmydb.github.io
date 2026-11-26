@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t}from"./chunks/framework.CdvW4CUT.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"program_language/index.md","filePath":"program_language/index.md"}'),r={name:"program_language/index.md"};function n(o,s,c,d,i,p){return a(),t("div")}const g=e(r,[["render",n]]);export{m as __pageData,g as default};

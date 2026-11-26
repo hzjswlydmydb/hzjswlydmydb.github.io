@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./chunks/framework.CdvW4CUT.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"school/ESP32/index.md","filePath":"school/ESP32/index.md"}'),a={name:"school/ESP32/index.md"};function n(s,c,r,d,i,p){return t(),o("div")}const m=e(a,[["render",n]]);export{l as __pageData,m as default};

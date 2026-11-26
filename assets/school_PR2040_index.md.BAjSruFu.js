@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./chunks/framework.CdvW4CUT.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"school/PR2040/index.md","filePath":"school/PR2040/index.md"}'),a={name:"school/PR2040/index.md"};function n(s,c,r,d,i,p){return t(),o("div")}const m=e(a,[["render",n]]);export{l as __pageData,m as default};
